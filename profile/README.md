@@ -3,7 +3,7 @@
 **Carrera:** Analista Universitario en Sistemas  
 **Materia:** Programación Lógica Aplicada II  
 **Fecha de entrega y exposición:** 02/10/2025  
-**Integrantes
+**Integrantes:**
 - Cassataro Ignacio 
 - Carrazana Pablo 
 - Monayar Facundo
